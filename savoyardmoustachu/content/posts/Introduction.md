@@ -3,9 +3,8 @@
 title = "Mon Voyage vers la Liberté Financière - Début 2024"
 date = 2024-01-11T17:09:24+01:00
 +++
-<img src="/Users/timot/Site/blog/savoyardmoustachu/data/Images/Col_De La forclaz.png"
-     alt="Moi dans mes rêves"
-     style="float: left; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;" />
+
+![Col de la Forclaz](/images/Col-de-la-Forclaz.png)
 
 
 ## Bonjour, c'est Le Moustachu Savoyard !
@@ -20,9 +19,7 @@ L'idée de FIRE m'attire car elle offre la liberté de vivre selon mes propres t
 - **Sens :** Je pourrai réaliser mon rêve de vivre à la ferme, libéré des problèmes financiers que mes ancêtres ont connus et que mes cousins rencontrent encore.
 - **Équilibre :** Passer du temps en famille, entre amis, en communion avec la nature plutôt qu’entraîné a toute vitesse dans les tumultes de la ville.
 
-<img src="/Users/timot/Site/blog/savoyardmoustachu/data/Images/FermeIdylique.png"
-     alt="Moi dans mes rêves"
-     style="float: left; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;" />
+![La Ferme de mes rêves](/images/Ferme-Idyllique.png)
 
 
 ### Ma Stratégie pour 2024
@@ -38,11 +35,7 @@ Pour atteindre cet objectif, voici ma stratégie pour l'année :
 
 Je suis un jeune de 24 ans qui jongle entre les données et la nature. A Genève la semaine ou je suis Data Scientist et le reste du temps dans ma campagne en Haute-Savoie. J'adore les animaux et la nature, mon idéal de liberté c'est de pouvoir vivre dans une ferme entouré d'une grande famille ou on a pas besoin de soucier d'argent. 
 
-<img src="/Users/timot/Site/blog/savoyardmoustachu/data/Images/MoustachuSavoyard.jpg"
-     alt="Moi dans mes rêves"
-     style="float: left; margin-right: 10px; margin-top: 10px; margin-bottom: 10px;" />
-
-
+![Le Moustachu Savoyard](/images/Moustachu-Savoyard.jpg)
 
 ### Restons Connectés
 
