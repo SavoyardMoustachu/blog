@@ -1,0 +1,8 @@
+[submodule "savoyardmoustachu/public"]
+	path = savoyardmoustachu/public
+	url = https://github.com/SavoyardMoustachu/savoyardmoustachu.github.io.git
+	branch = main
+[submodule "savoyardmoustachu/private"]
+	path = savoyardmoustachu/private
+	url = https://github.com/SavoyardMoustachu/savoyardmoustachu.github.io.git
+	branch = main
